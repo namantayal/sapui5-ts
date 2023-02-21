@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "demo",
+    "namespace": "com.myorg",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.108.7",
+    "author": "naman_tayal",
+    "initrepo": true,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.108.7",
+    "appId": "com.myorg.demo",
+    "appURI": "com/myorg/demo",
+    "setupCompleted": true
+  }
+}
